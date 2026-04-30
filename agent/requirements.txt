@@ -1,0 +1,19 @@
+# agent/requirements.txt
+# Core
+aiohttp>=3.9.0
+openpyxl>=3.1.2
+cryptography>=42.0.0
+
+# SAP RFC — requires SAP NW RFC SDK installed separately
+# Download from SAP Software Center (requires S-user)
+# https://support.sap.com/en/product/connectors/nwrfcsdk.html
+pyrfc>=2.8.0
+
+# Windows GUI scripting (Windows only — skip on Linux/Mac)
+# pywin32>=306  # uncomment on Windows
+
+# Utilities
+python-dotenv>=1.0.0
+tenacity>=8.3.0      # retry logic
+loguru>=0.7.2
+tqdm>=4.66.0         # progress bars for large extractions
