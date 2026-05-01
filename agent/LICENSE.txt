@@ -1,0 +1,20 @@
+SAuP Agent — End User License Agreement
+
+By installing this software you agree to the following terms.
+
+1. This software is provided by SAuP Platform for use by 
+   authorised clients only.
+
+2. This software connects to the SAuP platform using credentials
+   provided during setup. Do not share your credentials.
+
+3. SAP credentials entered during setup are stored locally on
+   this machine only and are never transmitted to SAuP servers.
+
+4. This software may only be used for authorised SAP data
+   extraction within your organisation.
+
+5. Unauthorised use, redistribution, or modification is 
+   prohibited.
+
+For support contact: support@saup.io
